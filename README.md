@@ -1,7 +1,5 @@
 # Vote Bot
 
----
-
 Discord Bot written in Python with [discord.py](https://discordpy.readthedocs.io/en/latest/)
 
 
