@@ -71,7 +71,7 @@ class Owner(commands.Cog):
     
     @commands.command(
         name='reloadextension',
-        aliases=['reload', 'uld'],
+        aliases=['reload', 'rld'],
         description='Reload an extension',
         usage='p?reloadextension <extension>'
     )
